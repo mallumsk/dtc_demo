@@ -1967,7 +1967,7 @@ dodecahedron
   -webkit-animation: jump 10s linear infinite;
           animation: jump 10s linear infinite;
   pointer-events: none;
-}
+} 
 
 .mil-animation {
   position: absolute;
